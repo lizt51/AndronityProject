@@ -43,9 +43,9 @@
         android:orientation="vertical">
 
         <LinearLayout
-            android:gravity="center_vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:gravity="center_vertical"
             android:orientation="horizontal">
 
             <View
@@ -71,14 +71,14 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/btnLoginSMS"
+            android:id="@+id/btnLoginGoogle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:background="@drawable/bg_btn_google"
             android:drawableLeft="@drawable/ic_google"
             android:paddingLeft="10dp"
-            android:text="@string/login_melalui_sms" />
+            android:text="@string/login_melalui_google" />
 
         <Button
             android:id="@+id/btnLoginFB"

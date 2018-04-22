@@ -5,5 +5,5 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="login_cepat_dengan">Login Cepat Dengan</string>
-    <string name="login_melalui_sms">Login melalui SMS</string>
+    <string name="login_melalui_google">Login dengan Google</string>
 </resources>
